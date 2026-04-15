@@ -339,8 +339,8 @@ with col_result:
     st.markdown("""
     <div class="info-box">
         <strong>Model:</strong> Tuned Gradient Boosting<br>
-        <strong>F1-Score:</strong> 0.7951 &nbsp;|&nbsp; <strong>AUC:</strong> 0.9297<br>
-        <strong>Optimal Threshold:</strong> 0.335 (Youden Index)
+        <strong>F1-Score:</strong> 0.7927 &nbsp;|&nbsp; <strong>AUC:</strong> 0.9293<br>
+        <strong>Optimal Threshold:</strong> 0.325 (Youden Index)
     </div>
     <div class="info-box">
         <strong>Top Predictive Features:</strong><br>
